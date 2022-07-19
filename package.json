@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "expo": "~45.0.0",
+    "expo-screen-orientation": "~4.2.0",
     "expo-status-bar": "~1.3.0",
+    "expo-updates": "~0.13.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "0.68.2",
+    "react-native-auto-size-text": "^1.1.1",
+    "react-native-orientation": "^3.1.3",
     "react-native-web": "0.17.7"
   },
   "devDependencies": {
